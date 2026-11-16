@@ -4,7 +4,10 @@
 
 Автор: [Марк / MDRK Studio](https://mdrkstudio.ru).
 
-![Регулировка громкости жестом](docs/demo.gif?v=2)
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="docs/demo.gif">
+  <img src="docs/demo-poster.png" alt="Регулировка громкости жестом" width="800" height="450">
+</picture>
 
 ## Возможности
 
