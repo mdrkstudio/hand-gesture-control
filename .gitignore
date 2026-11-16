@@ -1,0 +1,17 @@
+.venv/
+venv/
+venv311/
+__pycache__/
+*.py[cod]
+*.log
+logs/
+run/
+.matplotlib-cache/
+.DS_Store
+*.app/
+build/
+dist/
+.env
+.env.*
+.idea/
+.vscode/
